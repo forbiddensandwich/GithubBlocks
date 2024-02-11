@@ -1,0 +1,43 @@
+header{
+text-align: center;
+font-size: 500px;
+}
+div{
+    display:inline-block;
+    justify-content: center;
+    width: 2000px;
+    height: 600px;
+}
+.container{
+    margin: auto;
+    display: block;
+}
+
+.top{
+    background-color: purple;
+    display: flex;
+    align-items: center;
+}
+.center{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
+.bottom{
+    background-color: goldenrod;
+    display: flex;
+    align-items: center;
+}
+
+.tpics{
+margin: auto;
+display: inline-flex;
+justify-content: space-evenly, center;
+margin-top: 50px;
+}
+
+img{
+    height:500px;
+    width:500px;
+    margin: 30px;
+}
